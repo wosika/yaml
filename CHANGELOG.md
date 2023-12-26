@@ -1,3 +1,12 @@
+## 3.1.3-wip
+
+* Require Dart 3.0
+
+## 3.1.2
+
+* Require Dart 2.19
+* Added `topics` in `pubspec.yaml`.
+
 ## 3.1.1
 
 * Switch to using package:lints.
